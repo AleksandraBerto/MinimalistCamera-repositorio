@@ -5,7 +5,7 @@ Este projeto é uma landing page desenvolvida em **puro HTML e CSS** para uma ma
 O projeto demonstra como é possível criar um site visualmente atraente e funcional, utilizando apenas as linguagens fundamentais do desenvolvimento web, sem a necessidade de frameworks ou bibliotecas adicionais.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/MinimalistCamera-repositorio/
 
 ## 📂 Estrutura do projeto
 /MinimalistCameraLandingPage
